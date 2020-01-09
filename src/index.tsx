@@ -16,10 +16,27 @@ interface MyState {
 
 class ShoppingList extends React.Component<MyProps, MyState> {
 
+    private board: number[][];
+    private table: number[][];
+
     constructor(props: MyProps) {
         super(props);
         this.state = {
             data: "started"
+        }
+        this.board = [];
+        this.initBoard();
+
+         this.table = Array(3).fill(0)
+            .map(() => new Array(3).fill(0));
+    }
+
+    private initBoard(): void {
+        for (let i = 0; i < 3; i++) {
+            this.board[i] = [];
+            for (let j = 0; j < 3; j++) {
+                this.board[i][j] = 0;
+            }
         }
     }
 
@@ -35,6 +52,8 @@ class ShoppingList extends React.Component<MyProps, MyState> {
         } catch(error) {
             console.log(error);
         }
+
+        this.initBoard();
     }
 
     public render(): any {
