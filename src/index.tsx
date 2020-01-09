@@ -10,6 +10,10 @@ interface MyState {
     data: string;
 }
 
+/*
+ * https://blog.hellojs.org/fetching-api-data-with-react-js-460fe8bbf8f2
+ */
+
 class ShoppingList extends React.Component<MyProps, MyState> {
 
     constructor(props: MyProps) {
