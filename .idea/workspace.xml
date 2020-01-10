@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89bfb3f0-c69a-485e-9992-f565e8b4ebe7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Board.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Game.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Square.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/Squares.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/Rules.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\nilat\Desktop\untitled\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W93z2can3Nmi8vAfnuBM2rnQfI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.validation" />
+    <property name="ts.external.directory.path" value="C:\Users\nilat\Desktop\untitled\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nilat\Desktop\untitled\src\Components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nilat\Desktop\untitled\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Project" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Project" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89bfb3f0-c69a-485e-9992-f565e8b4ebe7" name="Default Changelist" comment="" />
+      <created>1578548241876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578548241876</updated>
+      <workItem from="1578548244609" duration="11790000" />
+      <workItem from="1578647581574" duration="6442000" />
+    </task>
+    <task id="LOCAL-00001" summary="Learn and Be Curious">
+      <created>1578562828919</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578562828919</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Learn and Be Curious">
+      <created>1578562870955</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578562870955</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Learn and Be Curious">
+      <created>1578562955267</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578562955267</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Learn and Be Curious">
+      <created>1578563419923</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578563419923</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Learn and Be Curious" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learn and Be Curious" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="352" y="508" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578651000148">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="352" y="508" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1578651000148" />
+    <state x="1011" y="449" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578558679383">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1011" y="449" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1578558679383" />
+    <state x="905" y="296" key="CommitChangelistDialog2" timestamp="1578654150391">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="905" y="296" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1578654150391" />
+    <state x="1163" y="592" width="258" height="216" key="Github.ShareDialog" timestamp="1578562683083">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1163" y="592" width="258" height="216" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1578562683083" />
+    <state x="1097" y="407" key="Github.UntrackedFilesDialog" timestamp="1578562714432">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1097" y="407" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1578562714432" />
+    <state width="1129" height="248" key="GridCell.Tab.0.bottom" timestamp="1578654054136">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1129" height="248" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1578654054136" />
+    <state width="1129" height="248" key="GridCell.Tab.0.center" timestamp="1578654054135">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1129" height="248" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1578654054135" />
+    <state width="1129" height="248" key="GridCell.Tab.0.left" timestamp="1578654054135">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1129" height="248" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1578654054135" />
+    <state width="1129" height="248" key="GridCell.Tab.0.right" timestamp="1578654054135">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1129" height="248" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1578654054135" />
+    <state x="873" y="435" key="Vcs.Push.Dialog.v2" timestamp="1578563423035">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="873" y="435" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1578563423035" />
+    <state x="977" y="526" key="com.intellij.ide.util.TipDialog" timestamp="1578647582644">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="977" y="526" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1578647582644" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1578550538506">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1578550538506" />
+  </component>
+</project>
